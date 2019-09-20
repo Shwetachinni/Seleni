@@ -6,5 +6,6 @@ public class Addit {
 	  System.out.println("welcome to github");
 	  
 	  System.out.println("welcome to git");
+	  System.out.println("welcome to git");
   }
 }
